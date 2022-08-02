@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidmcphee3
-- 👀 I’m interested in smart contract and blockchain engineering
-- 🌱 I’m currently learning Solidity and how to interact with the Ether Blockchain
-- 💞️ I’m looking to collaborate on html/css advice
+- 👀 I’m interested in crypto-theory and case studies
+- 🌱 I’m currently going through the Introduction to Quantum Mechanics by D.J. Griffiths. 
+- 💞️ I’m looking advice for my patchwork HTML/css/javascript
 - 📫 How to reach me davidmcphee.ca
 
 <!---
